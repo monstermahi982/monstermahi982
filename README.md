@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**monstermahi982/monstermahi982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Mahesh Sanjay Gaikwad, from akluj,india.
 
 - 🌱 I’m currently learning ...Computer Science.
