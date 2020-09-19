@@ -11,8 +11,8 @@ My name is Mahesh Sanjay Gaikwad, from akluj,india.
 <hr>
 
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+
 <img src="https://img.icons8.com/color/48/000000/json.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
