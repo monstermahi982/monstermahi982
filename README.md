@@ -11,6 +11,6 @@ My name is Mahesh Sanjay Gaikwad, from akluj,india.
 <hr>
 
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 <hr>
