@@ -20,7 +20,12 @@ My name is Mahesh Sanjay Gaikwad, from akluj,india.
 
 
 
-
+<br>
+<br />
+<img align="left" alt="r-kohale9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&hide_border=true&theme=flag-india&count_private=true&hide=stars,contribs" />
+<br />
+<br />
+<br />
 
 
 
