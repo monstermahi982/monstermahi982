@@ -21,7 +21,9 @@ My name is Mahesh Sanjay Gaikwad, from akluj,india.
 <br>
 
 <img align="left" alt="monster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&hide_border=true&theme=flag-india&count_private=true&hide=stars,contribs" />
+<br>
 
+<hr>
 <br />
 <a href="https://github.com/monstermahi982/movieapi3">
   <img align="left" alt="r-kohale9's GitHub pins" src="https://github-readme-stats.vercel.app/api/pin/?username=monstermahi982&repo=movieapi3&theme=flag-india" />
