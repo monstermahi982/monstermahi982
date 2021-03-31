@@ -5,7 +5,7 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 - 💬 Ask me about ... How to learn HTML with MONSTER 😁😁😁
 - 😄 Pronouns: ... ;-> ha monster......
 - ⚡ True fact: ... I am not a HUMAN.,.,
-- AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome am talking ABOUT
+- AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome I am talking ABOUT
 
 
 <br>
