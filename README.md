@@ -13,12 +13,8 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 <img align="left" alt="monster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&hide_border=true&theme=flag-india&count_private=true&hide=stars,contribs" />
 <br>
 
-<hr>
-<br />
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
 
 
 
