@@ -22,7 +22,7 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=monstermahi982&repo=github-readme-stats" alt="npo" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Monster's GitHub stats](https://github-readme-stats.vercel.app/api?username=monstermahi982)](https://github.com/monstermahi982/github-readme-stats)
 
 
 
