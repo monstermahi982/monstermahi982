@@ -19,6 +19,9 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
   <img align="left" alt="GitHub pins" src="https://github-readme-stats.vercel.app/api/pin/?username=monstermahi982&repo=movieapi3&theme=flag-india" />
 
 </a>
+<hr/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
