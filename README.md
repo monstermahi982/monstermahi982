@@ -15,5 +15,5 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monstermahi982&layout=compact)](https://github.com/monstermahi982/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
