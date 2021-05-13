@@ -22,7 +22,7 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Monster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monstermahi982)](https://github.com/monstermahi982/github-readme-stats)
 
 
 
