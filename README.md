@@ -22,8 +22,4 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 
 
 
-[![Monster's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monstermahi982)](https://github.com/monstermahi982/github-readme-stats)
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
