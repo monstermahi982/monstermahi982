@@ -15,17 +15,14 @@ My name is MONSTER MAHI, From Village to capture the whole WORLD.
 
 <hr>
 <br />
- <a href="https://github.com/monstermahi982/movieapi3">
- <img align="left" alt="GitHub pins" src="https://github-readme-stats.vercel.app/api/pin/?username=monstermahi982&repo=movieapi3&theme=flag-india" />
 
-</a>
-<hr/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=monstermahi982&repo=github-readme-stats" alt="npo" />
+
 
 [![Monster's GitHub stats](https://github-readme-stats.vercel.app/api?username=monstermahi982)](https://github.com/monstermahi982/github-readme-stats)
 
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monstermahi982)](https://github.com/monstermahi982/github-readme-stats)
 
 
 
