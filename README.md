@@ -1,4 +1,4 @@
-My name is MONSTER MAHI, From Village to capture the whole WORLD.
+My name is MONSTER MAHI, From Village to capture the whole WORLDs.
 
 - Dream ;---------> TO provide the JOBS To everyone.......
 - 🌱 I’m currently learning ... Your MIND FOOL
