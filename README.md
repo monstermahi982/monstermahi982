@@ -20,8 +20,7 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 
 
 
-<br />
-<br />
+
 
 ### Languages and Tools:
 
