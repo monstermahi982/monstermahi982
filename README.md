@@ -1,9 +1,9 @@
-#My name is ##Mahesh ##Gaikwad, From Village to capture the whole WORLDs
+My name is <h3>Mahesh Gaikwad</h3>, From Pune
 
 - Dream ;---------> TO provide the JOBS To everyone.......
-- 🌱 I’m currently learning ... Your MIND FOOL
-- 💬 Ask me about ... How to learn HTML with MONSTER 😁😁😁
-- 😄 Pronouns: ... ;-> ha monster......
+- 🌱 I’m currently learning ... System Design 
+- 💬 Ask me about ... clt c + clt v
+- 😄 Pronouns: ... ;-> ha monster
 - ⚡ True fact: ... I am not a HUMAN.,.,
 - AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome I am talking ABOUT
 
