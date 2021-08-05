@@ -1,4 +1,4 @@
-My name is <h3>Mahesh Gaikwad</h3>, From Pune
+My name is <strong>Mahesh Gaikwad</strong>, From Pune
 
 - Dream ;---------> TO provide the JOBS To everyone.......
 - 🌱 I’m currently learning ... System Design 
