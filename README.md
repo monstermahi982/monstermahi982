@@ -8,7 +8,7 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 - AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome I am talking ABOUT
 
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=monstermahi982.monstermahi982)
+
 
 <br />
 
@@ -43,3 +43,4 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/contentful/contentful.png" />
     
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monstermahi982.monstermahi982)
