@@ -8,6 +8,8 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 - 💬 Ask me about ... clt c + clt v
 - 😄 Pronouns: ... ;-> ha monster
 - ⚡ True fact: ... I am not a HUMAN.,.,
+- ✨ Connect with me at <a href="https://www.linkedin.com/in/maheshmonster">LINKEDIN</a>
+- My Profile :- <a href="https://monstermahi982.github.io/">Portfolio</a>
 - AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome I am talking ABOUT
 
 <br>
