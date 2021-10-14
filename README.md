@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monstermahi982.monstermahi982)
 <br />
-##HELLO MONSTER ;)
+<h2 style="text-align:'center'">HELLO MONSTER ;)</h2>
 <br />
 <hr />
 
