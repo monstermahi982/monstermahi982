@@ -18,7 +18,7 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 
 <br />
 
-![monster github stats](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
+![monster github stats align="center"](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
 
 <br />
 
