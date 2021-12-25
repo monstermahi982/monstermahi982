@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monstermahi982.monstermahi982)
 <br />
-<h2 align="center">HELLO MONSTER ;) 👋</h2>
+<h2 align="center">HELLO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> MONSTER HERE ;</h2>
 
 My name is <strong>Mahesh Gaikwad</strong>, From Pune
 
