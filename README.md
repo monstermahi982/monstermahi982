@@ -3,7 +3,7 @@
 <h1 align="center">HELLO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> MONSTER HERE ;</h1>
 <h3 align="center">Software Engineer :man_technologist:	Web Developer</h3>
 
-
+<div align="center">
 <a href="https://www.linkedin.com/in/maheshmonster/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -19,8 +19,9 @@
 <a href="https://hub.docker.com/u/mahimonster">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
+</div>
 
-
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monstermahi982&layout=compact)](https://github.com/monstermahi982/github-readme-stats)
