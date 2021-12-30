@@ -24,11 +24,11 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monstermahi982&layout=compact)](https://github.com/monstermahi982/github-readme-stats)
+[![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=monstermahi982&layout=compact)](https://github.com/monstermahi982/github-readme-stats)
 
 <br />
 
-![monster github stats align="center"](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
+![monster github stats align="right"](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
 
 
 
