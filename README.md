@@ -2,20 +2,21 @@
 <br />
 <h1 align="center">HELLO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> MONSTER HERE ;</h1>
 <h3 align="center">Software Engineer :man_technologist:	Web Developer</h3>
-My name is <strong>Mahesh Gaikwad</strong>, From Pune
-
-- Dream ;---------> TO provide the JOBS To everyone.......
-- 🌱 I’m currently learning ... System Design 
-- 💬 Ask me about ... clt c + clt v
-- 😄 Pronouns: ... ;-> ha monster
-- ⚡ True fact: ... I am not a HUMAN.,.,
-- ✨ Connect with me at <a href="https://www.linkedin.com/in/maheshmonster">LINKEDIN</a>
-- My Profile :- <a href="https://monstermahi982.github.io/">Portfolio</a>
-- AIM ;-----------> if there is hell in the world , i will send him .......... You know to whome I am talking ABOUT
-
-<br>
 
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
 <br />
 
 ![monster github stats align="center"](https://github-readme-stats.vercel.app/api?username=monstermahi982&show_icons=true&theme=gruvbox)
@@ -48,6 +49,3 @@ My name is <strong>Mahesh Gaikwad</strong>, From Pune
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/contentful/contentful.png" />
-
-<br /><br />
-[![Monster's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=monstermahi982&theme=xcode)](https://git.io/monstermahi982)
