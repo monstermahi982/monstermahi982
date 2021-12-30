@@ -4,19 +4,19 @@
 <h3 align="center">Software Engineer :man_technologist:	Web Developer</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/maheshmonster/">
+<a href="https://www.linkedin.com/in/maheshmonster/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/maheshg78239999">
+<a href="https://twitter.com/maheshg78239999" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:maheshgaikwad8892@gmail.com">
+<a href="mailto:maheshgaikwad8892@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="http://dev.to/monstermahi982">
+<a href="http://dev.to/monstermahi982" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://hub.docker.com/u/mahimonster">
+<a href="https://hub.docker.com/u/mahimonster" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
 </div>
